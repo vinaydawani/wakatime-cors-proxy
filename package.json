@@ -1,6 +1,6 @@
 {
   "name": "wakatime-cors-proxy",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "cors proxy for wakatime api",
   "main": "server.js",
   "scripts": {
